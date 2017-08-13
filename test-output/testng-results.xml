@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2339727" started-at="2017-08-12T11:51:07Z" finished-at="2017-08-12T12:30:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2339727" started-at="2017-08-12T11:51:07Z" finished-at="2017-08-12T12:30:07Z">
+      <class name="com.webLocators.WebAutomation">
+        <test-method status="PASS" signature="Web()[pri:0, instance:com.webLocators.WebAutomation@32d992b2]" name="Web" duration-ms="2339659" started-at="2017-08-12T17:21:07Z" description="Test" finished-at="2017-08-12T18:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Web -->
+      </class> <!-- com.webLocators.WebAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

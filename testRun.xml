@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="false">
+	<test name="Test">
+		<classes>
+			<class name="com.webLocators.WebAutomation">
+			<methods>
+					<include name="Web" />	
+
+
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
